@@ -1,6 +1,6 @@
-*******Flow*******
+# Flow
 
-# String
+## String
 
 1. Introduction to codeforces
     1.1 Overflow (range of data types)
